@@ -1,3 +1,5 @@
+#Exercicio: criar banco de dados mercadorias, criar uma tabela chamada produtos(idprodutos,nome,preco,categoria),inserir os dados e selecionar nome e preço de produtos onde preço maior que 50.
+
 create table produtos(
 idprodutos int not null,
 nome varchar (30),
